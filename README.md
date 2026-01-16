@@ -1,6 +1,9 @@
 # Grade IV Cancer with Emphasis on Glioblastoma  
 ### A Comprehensive Multidisciplinary Review
 
+[![DOI](https://www.researchgate.net/publication/399411466_Grade_IV_Cancer_with_Emphasis_on_Glioblastoma_A_Comprehensive_Multidisciplinary_Review_Samuelson_G_Independent_Researcher) 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **Author:** Samuelson G  
 **Affiliation:** Independent Researcher  
 **Corresponding Author:** Samuelson G  
